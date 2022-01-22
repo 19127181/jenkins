@@ -24,7 +24,7 @@ pipeline{
 	    }
 	    stage('Clone') {
 			steps {
-				git 'https://github.com/khoicrtp/jenkins'
+				git 'https://github.com/19127181/jenkins'
 			}
 		}
 
